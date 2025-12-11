@@ -1,3 +1,3 @@
 # Flight Book Management System
 
-Data models associated with smart tourism and destinations. Java library for the Amadeus Self-Service travel APIs. Another example Sabre Java Bridge for managing REST API request and responses. The Airplane Ticket Booking and Management System is a modern web application designed to streamline the process of booking and managing flight tickets. phpVMS is a PHP based application to run and simulate and airline
+Data models associated with smart tourism and destinations. Java library for the Amadeus Self-Service travel APIs. Another example Sabre Java Bridge for managing REST API request and responses. The Airplane Ticket Booking and Management System is a modern web application designed to streamline the process of booking and managing flight tickets. phpVMS is a PHP based application to run and simulate and airline. Flectra - Open Source ERP and CRM - Forked From Odoo
